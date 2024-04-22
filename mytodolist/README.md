@@ -1,16 +1,20 @@
 # mytodolist
 
-A new Flutter project.
+un nouveau projet flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Premier commit
+la creation du projet c'est fait directement sur vscode.
 
-A few resources to get you started if this is your first Flutter project:
+## Création de dossiers
+différents dossiers ont été créé comme le dossiers models qui va servir à stocker les fichiers
+de connexion à la base de données et au modèles todo-list, le dossier home qui lui va contenir
+le fichier de la page d'acceuil et enfin le dossiers screens qui lui va contenir les différents
+fênetre dont on aurra besoin pour complèter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+models : db_models.dart et todolist.dart
+home : home.dart
+screens : 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+et pour finir avec le fichier principal d'executable main.dart pour compiler et exécuter tt ceci.
+
